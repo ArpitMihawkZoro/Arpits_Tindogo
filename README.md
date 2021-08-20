@@ -1,2 +1,1 @@
-# Arpits_Tindogo
-New Tindog Webdesign
+TinDog Starting Files
